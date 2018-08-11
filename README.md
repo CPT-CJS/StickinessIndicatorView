@@ -2,7 +2,9 @@
 
 ---
 
-炫酷的指示器
+![preview][1]
+
+### 炫酷的指示器
 
 
  布局
@@ -17,3 +19,6 @@
 ```java
 mIndicatorView.setViewPager(mViewPager);
  ```
+
+
+  [1]: https://raw.githubusercontent.com/SAKURA5460/StickinessIndicatorView/master/preview.gif
